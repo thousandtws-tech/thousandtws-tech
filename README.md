@@ -126,9 +126,9 @@ Software Platforms
 Cloud Infrastructure  
 Digital Systems
 
-🌐 https://thousandtws.digital  
+🌐 https://thousandtws.com  
 
-📬 engineering@thousandtws.digital
+📬 vinicius@thousandtws.com
 
 ---
 
