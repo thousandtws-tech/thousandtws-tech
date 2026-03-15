@@ -30,6 +30,13 @@ This GitHub profile hosts projects, internal tools, experiments and open-source 
 **Backend**
 
 * Java
+* Rust
+* C
+* C++
+* C#
+* Nest.Js
+* Php
+* Laravel
 * Spring Boot
 * Node.js
 * Kotlin
