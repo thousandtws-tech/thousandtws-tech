@@ -46,6 +46,9 @@ This GitHub profile hosts projects, internal tools, experiments and open-source 
 * React
 * Next.js
 * TypeScript
+* Blazer
+* Vue.Js
+* Angular
 
 **Infrastructure**
 
@@ -53,10 +56,18 @@ This GitHub profile hosts projects, internal tools, experiments and open-source 
 * Cloud Infrastructure
 * CI/CD
 * Containerized Environments
+* Terraform
+* AWS
+* Azure
+* Portainer
 
 **Databases**
 
 * PostgreSQL
+* Redis
+* MySQL
+* MongoDB
+* Cassandra
 * Relational Data Systems
 
 ---
@@ -64,7 +75,6 @@ This GitHub profile hosts projects, internal tools, experiments and open-source 
 ## Architecture Principles
 
 Our engineering approach is based on:
-
 * Clean Architecture
 * Scalable System Design
 * Cloud Native Infrastructure
