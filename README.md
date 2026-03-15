@@ -99,13 +99,20 @@ Our engineering approach is based on:
 
 ---
 
-# Engineering Metrics
+## Engineering Insights
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thousandtws-tech&show_icons=true&theme=transparent&title_color=1F4ED8&text_color=6B7280&icon_color=1F4ED8" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thousandtws-tech&layout=compact&theme=transparent&title_color=1F4ED8&text_color=6B7280" />
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thousandtws-tech&show_icons=true&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280&icon_color=1F4ED8&ring_color=0A2540" />
+</td>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thousandtws-tech&layout=compact&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280" />
+</td>
+</tr>
+</table>
 
 </div>
 
