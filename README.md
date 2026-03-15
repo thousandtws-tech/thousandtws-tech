@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://thousandtws.digital">
-    <img src="https://img.shields.io/badge/Website-thousandtws.digital-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-thousandtws.com-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:engineering@thousandtws.digital">
-    <img src="https://img.shields.io/badge/Contact-engineering%40thousandtws.digital-1F4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:vinicius@thousandtws.com">
+    <img src="https://img.shields.io/badge/Contact-engineering%40thousandtws.com-1F4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
