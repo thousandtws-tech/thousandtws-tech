@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1F4ED8,100:0A2540&height=220&section=header&text=ThousandTWS%20Engineering&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Software%20Platforms%20%7C%20Cloud%20Infrastructure%20%7C%20Digital%20Systems&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1F4ED8,100:0A2540&height=220&section=header&text=Vinicius%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Software%20Platforms%20%7C%20Cloud%20Infrastructure%20%7C%20Digital%20Systems&descAlignY=58&descSize=16" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=1F4ED8&center=true&vCenter=true&width=1000&lines=Engineering+Modern+Software+Platforms;Cloud+Infrastructure+and+DevOps;Scalable+Digital+Systems;Open+Source+and+Platform+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=1F4ED8&center=true&vCenter=true&width=1000&lines=Software+Engineer;Engineering+Modern+Software+Platforms;Cloud+Infrastructure+and+DevOps;Scalable+Digital+Systems;Open+Source+and+Platform+Engineering" />
 
 <br><br>
 
 <p align="center">
-  <a href="https://thousandtws.digital">
-    <img src="https://img.shields.io/badge/Website-thousandtws.com-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://github.com/viniciusmoreira">
+    <img src="https://img.shields.io/badge/GitHub-Vinicius%20Moreira-0A2540?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vinicius@thousandtws.com">
-    <img src="https://img.shields.io/badge/Contact-engineering%40thousandtws.com-1F4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:vinicius.softengineer@outlook.com">
+    <img src="https://img.shields.io/badge/Contact-vinicius.softengineer%40outlook.com-1F4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -23,11 +23,11 @@
 
 # About
 
-**ThousandTWS** is a technology initiative focused on designing and developing modern software systems, cloud platforms and digital infrastructure.
+**Vinicius Moreira** is a Software Engineer focused on designing and developing modern software systems, cloud platforms and scalable digital infrastructure.
 
-Our work combines software engineering practices, scalable architecture and cloud-native technologies to build reliable, secure and maintainable systems.
+My work combines software engineering practices, scalable architecture and cloud-native technologies to build reliable, secure and maintainable systems.
 
-This GitHub profile hosts projects, internal tools, experiments and open-source initiatives developed within the ThousandTWS ecosystem.
+This GitHub profile hosts projects, internal tools, experiments and open-source initiatives focused on backend engineering, frontend applications, DevOps, automation and platform engineering.
 
 ---
 
@@ -89,13 +89,15 @@ This GitHub profile hosts projects, internal tools, experiments and open-source 
 
 # Architecture Principles
 
-Our engineering approach is based on:
+My engineering approach is based on:
 
 - Clean Architecture
 - Scalable System Design
 - Cloud Native Infrastructure
 - Secure Development Practices
 - Modular Software Engineering
+- Performance-oriented Development
+- Maintainable Codebases
 
 ---
 
@@ -106,10 +108,10 @@ Our engineering approach is based on:
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thousandtws-tech&show_icons=true&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280&icon_color=1F4ED8&ring_color=0A2540" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmoreira&show_icons=true&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280&icon_color=1F4ED8&ring_color=0A2540" />
 </td>
 <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thousandtws-tech&layout=compact&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmoreira&layout=compact&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280" />
 </td>
 </tr>
 </table>
@@ -118,17 +120,17 @@ Our engineering approach is based on:
 
 ---
 
-# Organization
+# Profile
 
-**ThousandTWS Engineering**
+**Vinicius Moreira**
 
-Software Platforms  
+Software Engineer  
+Backend Engineering  
 Cloud Infrastructure  
-Digital Systems
+Digital Systems  
+Platform Engineering  
 
-🌐 https://thousandtws.com  
-
-📬 vinicius@thousandtws.com
+📬 vinicius.softengineer@outlook.com
 
 ---
 
