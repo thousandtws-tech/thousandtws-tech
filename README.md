@@ -1,141 +1,255 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1F4ED8,100:0A2540&height=220&section=header&text=Vinicius%20Moreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Software%20Platforms%20%7C%20Cloud%20Infrastructure%20%7C%20Digital%20Systems&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:2563EB,100:0A2540&height=240&section=header&text=Vinicius%20Moreira&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Engineering%20%7C%20Cloud%20Platforms&descAlignY=60&descSize=18" width="100%" />
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=1F4ED8&center=true&vCenter=true&width=1000&lines=Software+Engineer;Engineering+Modern+Software+Platforms;Cloud+Infrastructure+and+DevOps;Scalable+Digital+Systems;Open+Source+and+Platform+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+and+Cloud+Specialist;Building+Scalable+Platforms;Backend+Architecture+and+System+Design;Cloud+Infrastructure+and+DevOps;Engineering+Reliable+Digital+Systems" />
 
-<br><br>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/viniciusmoreira">
-    <img src="https://img.shields.io/badge/GitHub-Vinicius%20Moreira-0A2540?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:vinicius.softengineer@outlook.com">
-    <img src="https://img.shields.io/badge/Contact-vinicius.softengineer%40outlook.com-1F4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:vinicius.softengineer@outlook.com">
+  <img src="https://img.shields.io/badge/Email-vinicius.softengineer%40outlook.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/viniciusmoreira">
+  <img src="https://img.shields.io/badge/GitHub-viniciusmoreira-0A2540?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# About
+# About Me
 
-**Vinicius Moreira** is a Software Engineer focused on designing and developing modern software systems, cloud platforms and scalable digital infrastructure.
+Software Engineer focused on building scalable software platforms, cloud-native applications and modern backend systems.
 
-My work combines software engineering practices, scalable architecture and cloud-native technologies to build reliable, secure and maintainable systems.
+My experience includes designing and developing enterprise applications, distributed systems, cloud infrastructure and automation solutions using modern engineering practices.
 
-This GitHub profile hosts projects, internal tools, experiments and open-source initiatives focused on backend engineering, frontend applications, DevOps, automation and platform engineering.
+I enjoy solving complex technical challenges through clean architecture, scalable system design and continuous improvement.
 
 ---
 
-# Engineering Focus
+# Core Expertise
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Cloud%20Infrastructure-0A2540?style=for-the-badge&logo=icloud&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Backend%20Platforms-1F4ED8?style=for-the-badge&logo=serverless&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Web%20Applications-0A2540?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DevOps%20%26%20Automation-1F4ED8?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Platform%20Engineering-0A2540?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-</p>
+- Backend Engineering
+- Software Architecture
+- Cloud Infrastructure
+- Platform Engineering
+- Distributed Systems
+- DevOps & Automation
+- API Design
+- Performance Optimization
+- System Integration
+- Enterprise Applications
 
 ---
 
 # Technology Stack
 
-## Backend
+## Backend Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,quarkus,rust,nestjs,php,laravel,spring,nodejs,kotlin" />
+<img src="https://skillicons.dev/icons?i=java,quarkus,spring,kotlin,nodejs,nestjs,rust,php,laravel" />
 </p>
 
-## Frontend
+### Primary Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,angular"/>
-</p>
-
-<img src="https://img.shields.io/badge/Blazor-1F4ED8?style=for-the-badge&logo=blazor&logoColor=white" />
+- Java
+- Quarkus
+- Spring Boot
+- Kotlin
+- Node.js
+- NestJS
+- Rust
 
 ---
 
-## Infrastructure
+## Frontend Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,terraform,aws,azure"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular,vue" />
 </p>
 
-<img src="https://img.shields.io/badge/Portainer-0A2540?style=for-the-badge&logo=portainer&logoColor=white"/>
+### Frontend Stack
+
+- React
+- Next.js
+- TypeScript
+- Angular
+- Vue.js
 
 ---
 
-## Databases
+## Cloud & Infrastructure
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,nginx" />
 </p>
 
-<img src="https://img.shields.io/badge/Cassandra-1F4ED8?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+### Infrastructure
+
+- Microsoft Azure
+- Amazon Web Services
+- Docker
+- Kubernetes
+- Terraform
+- NGINX
 
 ---
 
-# Architecture Principles
+## Databases & Messaging
 
-My engineering approach is based on:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Data Platforms
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Apache Kafka
+- Cassandra
+
+---
+
+## Development Practices
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,gradle,linux" />
+</p>
+
+---
+
+# Engineering Principles
+
+I believe software should be:
+
+- Scalable
+- Secure
+- Maintainable
+- Observable
+- Reliable
+- Performant
+
+My engineering decisions are guided by:
 
 - Clean Architecture
-- Scalable System Design
-- Cloud Native Infrastructure
-- Secure Development Practices
-- Modular Software Engineering
-- Performance-oriented Development
-- Maintainable Codebases
+- Domain-Driven Design (DDD)
+- SOLID Principles
+- Cloud-Native Design
+- Continuous Delivery
+- Infrastructure as Code
+- Automated Testing
+- Observability & Monitoring
 
 ---
 
-## Engineering Insights
+# Current Focus
+
+```java
+public class ViniciusMoreira {
+
+    private final String role = "Software Engineer";
+
+    private final List<String> focusAreas = List.of(
+        "Backend Engineering",
+        "Cloud Architecture",
+        "Platform Engineering",
+        "Distributed Systems",
+        "DevOps Automation",
+        "Software Architecture"
+    );
+
+}
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmoreira&show_icons=true&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280&icon_color=1F4ED8&ring_color=0A2540" />
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmoreira&layout=compact&theme=transparent&hide_border=false&border_radius=12&title_color=1F4ED8&text_color=6B7280" />
-</td>
-</tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmoreira&show_icons=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=6B7280&border_radius=14"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmoreira&layout=compact&theme=transparent&title_color=2563EB&text_color=6B7280&border_radius=14"/>
 
 </div>
 
 ---
 
-# Profile
+# Contribution Activity
 
-**Vinicius Moreira**
+<div align="center">
 
-Software Engineer  
-Backend Engineering  
-Cloud Infrastructure  
-Digital Systems  
-Platform Engineering  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusmoreira&bg_color=ffffff&color=2563EB&line=2563EB&point=0A2540&area=true&hide_border=true" width="100%"/>
 
-📬 vinicius.softengineer@outlook.com
+</div>
+
+---
+
+# Professional Interests
+
+### Software Engineering
+
+- Backend Platforms
+- Enterprise Systems
+- API Ecosystems
+- Distributed Architectures
+
+### Cloud Engineering
+
+- Azure
+- AWS
+- Infrastructure as Code
+- Container Platforms
+
+### Platform Engineering
+
+- Internal Developer Platforms
+- Automation
+- CI/CD Pipelines
+- Observability
+
+---
+
+# Open Source
+
+I use GitHub as a platform to share:
+
+- Software Projects
+- Engineering Experiments
+- Technical Studies
+- Infrastructure Solutions
+- Open Source Contributions
+- Platform Engineering Initiatives
+
+---
+
+# Professional Philosophy
+
+> Build software that scales.
+>
+> Design systems that last.
+>
+> Automate everything possible.
+>
+> Never stop learning.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1F4ED8,100:0A2540&height=120&section=footer"/>
+### Software Engineer • Backend Engineer • Cloud Engineer
+
+📩 vinicius.softengineer@outlook.com
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=viniciusmoreira&style=for-the-badge&color=2563EB" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:2563EB,100:0A2540&height=120&section=footer"/>
