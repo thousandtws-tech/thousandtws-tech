@@ -50,7 +50,7 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 ## Backend Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,quarkus,spring,kotlin,nodejs,nestjs,rust,php,laravel" />
+<img src="https://skillicons.dev/icons?i=java,go,spring,kotlin,nodejs" />
 </p>
 
 ### Primary Technologies
@@ -60,8 +60,7 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 - Spring Boot
 - Kotlin
 - Node.js
-- NestJS
-- Rust
+- Golang
 
 ---
 
@@ -76,8 +75,8 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 - React
 - Next.js
 - TypeScript
+- JavaScript
 - Angular
-- Vue.js
 
 ---
 
