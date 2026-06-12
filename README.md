@@ -67,7 +67,7 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 ## Frontend Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular,vue" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular" />
 </p>
 
 ### Frontend Stack
