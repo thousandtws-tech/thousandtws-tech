@@ -54,7 +54,7 @@ This GitHub profile hosts projects, internal tools, experiments and open-source 
 ## Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,rust,nestjs,php,laravel,spring,nodejs,kotlin"/>
+  <img src="https://skillicons.dev/icons?i=java,quarkus,rust,nestjs,php,laravel,spring,nodejs,kotlin" />
 </p>
 
 ## Frontend
