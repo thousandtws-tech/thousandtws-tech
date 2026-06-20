@@ -20,17 +20,16 @@
 
 ---
 
-# About Me
+# Sobre mim
 
-Software Engineer focused on building scalable software platforms, cloud-native applications and modern backend systems.
+Engenheiro de Software com foco na construção de plataformas de software escaláveis, aplicações nativas da nuvem e sistemas de backend modernos.
 
-My experience includes designing and developing enterprise applications, distributed systems, cloud infrastructure and automation solutions using modern engineering practices.
+Minha experiência inclui o projeto e desenvolvimento de aplicações empresariais, sistemas distribuídos, infraestrutura em nuvem e soluções de automação, utilizando práticas modernas de engenharia.
 
-I enjoy solving complex technical challenges through clean architecture, scalable system design and continuous improvement.
-
+Gosto de resolver desafios técnicos complexos através de arquitetura limpa, design de sistemas escaláveis ​​e melhoria contínua.
 ---
 
-# Core Expertise
+# Experiência central
 
 - Backend Engineering
 - Software Architecture
@@ -61,6 +60,7 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 - Kotlin
 - Node.js
 - Golang
+- PHP
 
 ---
 
@@ -94,7 +94,7 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 - Kubernetes
 - Terraform
 - NGINX
-
+- Laravel Cloud
 ---
 
 ## Databases & Messaging
@@ -114,7 +114,7 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 
 ---
 
-## Development Practices
+## Práticas de Desenvolvimento
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,gradle,linux" />
@@ -122,9 +122,9 @@ I enjoy solving complex technical challenges through clean architecture, scalabl
 
 ---
 
-# Engineering Principles
+# Princípios de Engenharia
 
-I believe software should be:
+Acredito que o software deva ser:
 
 - Scalable
 - Secure
@@ -133,7 +133,7 @@ I believe software should be:
 - Reliable
 - Performant
 
-My engineering decisions are guided by:
+Minhas decisões de engenharia são guiadas por:
 
 - Clean Architecture
 - Domain-Driven Design (DDD)
@@ -146,7 +146,7 @@ My engineering decisions are guided by:
 
 ---
 
-# Current Focus
+# Foco Atual
 
 ```java
 public class ViniciusMoreira {
@@ -189,7 +189,7 @@ public class ViniciusMoreira {
 
 ---
 
-# Professional Interests
+# Interesses Profissionais
 
 ### Software Engineering
 
@@ -216,7 +216,7 @@ public class ViniciusMoreira {
 
 # Open Source
 
-I use GitHub as a platform to share:
+Utilizo o GitHub como plataforma para compartilhar:
 
 - Software Projects
 - Engineering Experiments
@@ -227,7 +227,7 @@ I use GitHub as a platform to share:
 
 ---
 
-# Professional Philosophy
+# Filosofia Profissional
 
 > Build software that scales.
 >
